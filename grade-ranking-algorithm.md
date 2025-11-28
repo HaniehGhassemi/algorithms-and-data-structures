@@ -1,3 +1,4 @@
+```
 score = 20
 grade
 
@@ -13,3 +14,4 @@ ELSE:
     grade = "F"
 
 PRINT grade
+```
